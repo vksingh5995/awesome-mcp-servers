@@ -211,6 +211,7 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [yance-zhang/pumpfun-dune-mcp](https://github.com/yance-zhang/pumpfun-dune-mcp): A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.
 - [muxi1998/android-studio-mcp-server](https://github.com/muxi1998/android-studio-mcp-server): Enhance Android Studio with AI chat capabilities through the MCP Server plugin, enabling natural language interaction with Android projects.
 - [deepsuthar496/figma-mcp-server](https://github.com/deepsuthar496/figma-mcp-server): Facilitates seamless interaction with Figma's API for managing files, comments, projects, and webhooks.
+- [gethopp/figma-mcp-bridge](https://github.com/gethopp/figma-mcp-bridge): Bypasses Figma API rate limits by streaming live Figma document data to AI tools through a WebSocket-based plugin-server bridge with leader election and multi-instance management.
 - [yanmxa/litemcp](https://github.com/yanmxa/litemcp): litemcp facilitates seamless integration of AI SDKs into MCP projects, prioritizing simplicity and minimal dependencies.
 - [Leghis/smart-e2b](https://github.com/Leghis/smart-e2b): A secure cloud-based MCP server for executing JavaScript and Python code with seamless integration into Claude AI Desktop.
 - [hvkshetry/autocad-mcp](https://github.com/hvkshetry/autocad-mcp): Facilitates natural language-driven engineering drawing creation in AutoCAD LT via AutoLISP code generation and execution.
