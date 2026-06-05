@@ -142579,6 +142579,58 @@
     }
   },
   {
+    "id": "github-serhiizghama-viber-mcp-11451afa",
+    "name": "serhiizghama/viber-mcp",
+    "description": "MCP server for the Viber Bot REST API. Send text/picture/video/file/location/contact messages, broadcast to up to 300 recipients, manage webhooks, and read account/user state — 13 tools, TypeScript, published to npm as `@serhii.zghama/viber-mcp`.",
+    "category": "Communication & Messaging",
+    "source": {
+      "readmePath": null,
+      "docsPath": "docs/communication--messaging.md",
+      "featuredInReadme": false
+    },
+    "links": {
+      "primary": "https://github.com/serhiizghama/viber-mcp",
+      "repo": "https://github.com/serhiizghama/viber-mcp",
+      "homepage": null,
+      "docs": null,
+      "endpoint": null
+    },
+    "install": {
+      "commands": [],
+      "env": [],
+      "confidence": "low"
+    },
+    "transport": [
+      "unknown"
+    ],
+    "auth": {
+      "type": "unknown",
+      "notes": []
+    },
+    "clients": [],
+    "tools": {
+      "count": 13,
+      "names": [],
+      "source": "self_reported"
+    },
+    "license": "unknown",
+    "health": {
+      "repoPublic": null,
+      "packageFound": null,
+      "endpointReachable": null,
+      "lastCheckedAt": null
+    },
+    "verification": {
+      "status": "unknown",
+      "notes": []
+    },
+    "community": {
+      "maintainedBy": [],
+      "verifiedBy": [],
+      "claimed": false
+    }
+  },
+  {
     "id": "github-escorza07-whatsapp-mcp-b3d3057b",
     "name": "Escorza07/whatsapp-mcp",
     "description": "Facilitates seamless interaction with WhatsApp through Claude by leveraging a Go bridge and Python MCP server for message management and contact search.",
@@ -220658,6 +220710,59 @@
     }
   },
   {
+    "id": "github-hive-intel-hive-sdk-01611aed",
+    "name": "hive-intel/hive-sdk",
+    "description": "Managed crypto intelligence MCP for AI agents with hosted HTTP, local stdio through the `hive-intelligence` npm package, a TypeScript SDK, and skills across market data, DeFi, wallets, token risk, DEX flows, NFTs, Solana, infrastructure, and prediction markets.",
+    "category": "Finance & Crypto",
+    "source": {
+      "readmePath": null,
+      "docsPath": "docs/finance--crypto.md",
+      "featuredInReadme": false
+    },
+    "links": {
+      "primary": "https://github.com/hive-intel/hive-sdk",
+      "repo": "https://github.com/hive-intel/hive-sdk",
+      "homepage": null,
+      "docs": null,
+      "endpoint": null
+    },
+    "install": {
+      "commands": [],
+      "env": [],
+      "confidence": "low"
+    },
+    "transport": [
+      "stdio",
+      "streamable-http"
+    ],
+    "auth": {
+      "type": "unknown",
+      "notes": []
+    },
+    "clients": [],
+    "tools": {
+      "count": null,
+      "names": [],
+      "source": "unknown"
+    },
+    "license": "unknown",
+    "health": {
+      "repoPublic": null,
+      "packageFound": null,
+      "endpointReachable": null,
+      "lastCheckedAt": null
+    },
+    "verification": {
+      "status": "unknown",
+      "notes": []
+    },
+    "community": {
+      "maintainedBy": [],
+      "verifiedBy": [],
+      "claimed": false
+    }
+  },
+  {
     "id": "github-everimbaq-mcp-nftgo-api-6e70ee5c",
     "name": "everimbaq/mcp-nftgo-api",
     "description": "Facilitates HTTP requests to the NFTGo Developer API using the Model Context Protocol.",
@@ -234299,6 +234404,63 @@
     "clients": [],
     "tools": {
       "count": 52,
+      "names": [],
+      "source": "self_reported"
+    },
+    "license": "unknown",
+    "health": {
+      "repoPublic": null,
+      "packageFound": null,
+      "endpointReachable": null,
+      "lastCheckedAt": null
+    },
+    "verification": {
+      "status": "unknown",
+      "notes": []
+    },
+    "community": {
+      "maintainedBy": [],
+      "verifiedBy": [],
+      "claimed": false
+    }
+  },
+  {
+    "id": "github-tapetide-hq-nse-bse-indian-stock-market-data-mcp-a214af19",
+    "name": "Tapetide-hq/nse-bse-indian-stock-market-data-mcp",
+    "description": "AI-first stock analysis for Indian markets — 34 tools to search, screen & analyze all 8,200+ NSE and BSE stocks: live quotes, financials, technicals, a 326-ratio screener, FII/DII institutional flows, IPOs & portfolio tracking. Hosted MCP, works with Claude, ChatGPT, Cursor & any MCP client. Install: `npx tapetide-mcp`.",
+    "category": "Finance & Crypto",
+    "source": {
+      "readmePath": null,
+      "docsPath": "docs/finance--crypto.md",
+      "featuredInReadme": false
+    },
+    "links": {
+      "primary": "https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp",
+      "repo": "https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp",
+      "homepage": null,
+      "docs": null,
+      "endpoint": null
+    },
+    "install": {
+      "commands": [
+        "npx tapetide-mcp"
+      ],
+      "env": [],
+      "confidence": "medium"
+    },
+    "transport": [
+      "unknown"
+    ],
+    "auth": {
+      "type": "unknown",
+      "notes": []
+    },
+    "clients": [
+      "Claude",
+      "Cursor"
+    ],
+    "tools": {
+      "count": 34,
       "names": [],
       "source": "self_reported"
     },
