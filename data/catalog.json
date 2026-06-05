@@ -84999,7 +84999,7 @@
   {
     "id": "toolrouter-com-340ac431",
     "name": "ToolRouter",
-    "description": "Give your AI agent access to 150+ tools on demand with just one account. One API key replaces managing dozens of provider accounts. `npx -y toolrouter-mcp`",
+    "description": "Give your AI agent superpowers with access to 150+ tools on demand with just one account. One API key replaces managing dozens of provider accounts. `npx -y toolrouter-mcp`",
     "category": "AI & LLM Integration",
     "source": {
       "readmePath": null,
