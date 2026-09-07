@@ -28,6 +28,8 @@
     "@modelcontextprotocol/sdk": "^1.0.0",
     "ajv": "^8.0.0",
     "ajv-formats": "^3.0.1",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^3.3.2",
     "zod": "^3.0.0"
   }
 }
